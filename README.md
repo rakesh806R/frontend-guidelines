@@ -80,7 +80,7 @@ Keep your code terse. Forget about your old XHTML habits.
   <h1>Contact me</h1>
   <label>
     Email address:
-    <input type=email placeholder=you@email.com required>
+    <input =you@email.com required>
   </label>
   <script src=main.js></script>
 </html>
